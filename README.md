@@ -1,6 +1,6 @@
 # Dummy-Debug
 
-**Dummy debug** é um package para sublime text 3.
+**Dummy debug** é um package para sublime text 3. Ainda tem algumas alterações que eu acredito serem necessarias antes de enviar para o __package control__ do sublime, mas em breve ele estará lá.
 
 ## Porque
 
