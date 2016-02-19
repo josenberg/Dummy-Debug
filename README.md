@@ -49,4 +49,4 @@ console.log("           ");
 
 Apenas três teclas, baixe tambem seu **Dummy debugger** e seja __pro-programmer__.
 
-This work is under (WTFPL)[https://en.wikipedia.org/wiki/WTFPL#Version_2] 	
+Esse codigo esta sob (WTFPL)[https://en.wikipedia.org/wiki/WTFPL#Version_2] 	
