@@ -2,7 +2,7 @@
 
 **Dummy debug** é um package para sublime text 3. Ainda tem algumas alterações que eu acredito serem necessarias antes de enviar para o __package control__ do sublime, mas em breve ele estará lá.
 
-## Porque
+## Por que?
 
 Mesmo não sendo o jeito mais adequado, as vezes eu prefiro colocar um ´console.log´ no meio do meu projeto para poder observar uma variavel, o jeito que eu constumava fazer era algo como:
 
